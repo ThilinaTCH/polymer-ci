@@ -1,6 +1,6 @@
 # Polymer App Toolbox - Starter Kit
 
-[![Build Status](https://travis-ci.org/PolymerElements/polymer-starter-kit.svg?branch=master)](https://travis-ci.org/PolymerElements/polymer-starter-kit)
+[![Build Status](https://travis-ci.org/ThilinaTCH/polymer-ci.svg?branch=master)](https://travis-ci.org/ThilinaTCH/polymer-ci)
 
 This template is a starting point for building apps using a drawer-based
 layout. The layout is provided by `app-layout` elements.
