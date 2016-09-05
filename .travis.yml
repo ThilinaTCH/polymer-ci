@@ -13,7 +13,7 @@ addons:
 before_script:
 - npm install -g bower polylint web-component-tester polymer-cli
 - bower install
-- polylint
+# - polylint
 - polymer build
 script:
 - xvfb-run wct --skip-plugin sauce
